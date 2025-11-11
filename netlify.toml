@@ -1,6 +1,4 @@
-cat > netlify.toml << 'EOF'
 [build]
   base = "Movie-Watchlist"
   command = "npm run build"
   publish = "build"
-EOF
