@@ -1,0 +1,3 @@
+[build]
+  command = "cd Movie-Watchlist && npm run build"
+  publish = "Movie-Watchlist/build"
